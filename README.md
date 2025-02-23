@@ -2,12 +2,13 @@
 It is a medium like blogging website. 
 Where user can come and post there thougths and blogs.
 
-# React + Vite
+# Signup Page
+![Screenshot 2025-02-24 at 2 50 24 AM](https://github.com/user-attachments/assets/edf3dfbd-5218-4bca-a549-2061c810c543)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# Blogs pages
+![Screenshot 2025-02-24 at 2 56 22 AM](https://github.com/user-attachments/assets/1c1c7514-1e29-4ed3-9d41-49c2d010086f)
 
-Currently, two official plugins are available:
+![Screenshot 2025-02-24 at 2 57 09 AM](https://github.com/user-attachments/assets/5a46c5ca-de76-4ffc-97bd-a9a45a453286)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
->>>>>>> Initial commit
+# Create Blog
+![Screenshot 2025-02-24 at 2 56 42 AM](https://github.com/user-attachments/assets/99683fca-9111-4d2d-b53c-5ff8688adc52)
